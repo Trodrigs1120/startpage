@@ -1,0 +1,7 @@
+body {
+    background-image: url("../images/cityscape.jpg");
+}
+.Weather{
+    background:rgb(199, 196, 196);
+    font: black;
+}
